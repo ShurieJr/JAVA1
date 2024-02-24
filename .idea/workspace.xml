@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CA226/ComputeAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/ReadingInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="COMMIT">
+      <change afterPath="$PROJECT_DIR$/src/CA2212/ComputeAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/ComputerArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/DisplayAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/MeetingDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/Power.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cagtay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +40,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CA2212.ComputeAverage.executor": "Run",
     "Application.ComputeAverage.executor": "Run",
+    "Application.ComputerArea.executor": "Run",
+    "Application.DisplayAge.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.MeetingDay.executor": "Run",
+    "Application.Power.executor": "Run",
     "Application.ReadingInput.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ComputeAverage">
-    <configuration name="ComputeAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.ComputeAverage" />
+  <component name="RunManager" selected="Application.Power">
+    <configuration name="CA2212.ComputeAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.ComputeAverage" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.*" />
+          <option name="PATTERN" value="CA2212.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,19 +72,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.HelloWorld" />
+    <configuration name="ComputerArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.ComputerArea" />
       <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA2212.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.ReadingInput" />
+    <configuration name="DisplayAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.DisplayAge" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.*" />
+          <option name="PATTERN" value="CA2212.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeetingDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.MeetingDay" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA2212.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.Power" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA2212.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,9 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComputeAverage" />
-        <item itemvalue="Application.ReadingInput" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Power" />
+        <item itemvalue="Application.MeetingDay" />
+        <item itemvalue="Application.DisplayAge" />
+        <item itemvalue="Application.CA2212.ComputeAverage" />
+        <item itemvalue="Application.ComputerArea" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +150,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708243416198</updated>
     </task>
+    <task id="LOCAL-00001" summary="COMMIT">
+      <option name="closed" value="true" />
+      <created>1708593890799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708593890800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT" />
   </component>
 </project>
