@@ -14,7 +14,7 @@ public class ComputeAverage {
         double flutter = in.nextDouble();
 
         //3. compute average
-        double average = (java + html + flutter) / 3;
+       double average = (java + html + flutter) / 3;
 
         //compute total
         double total = java + html + flutter;

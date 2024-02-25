@@ -12,7 +12,7 @@ public class Power {
         double num2 = input.nextDouble();
 
         double result = Math.pow(num1, num2);
-        System.out.println("result = " + result);
+        System.out.println("Result: " + result);
 
     }
 }
