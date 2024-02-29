@@ -28,5 +28,7 @@ public class Swapping {
         System.out.println("After Swapping :");
         System.out.println("Number 1: " + number1);
         System.out.println("Number 2: " + number2);
+
+
     }
 }
