@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA226/MeetingDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter3/OneWaySelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter3/Selections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter3/TwoWaySlection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/IncreDrecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/AdditionQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/MultiWayIF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA2212/Swapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA2212/Swapping.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdditionQuiz.executor": "Run",
     "Application.CA2212.ComputeAverage.executor": "Run",
     "Application.ComputeAverage.executor": "Run",
     "Application.ComputerArea.executor": "Run",
@@ -49,11 +53,16 @@
     "Application.FahrenheitTOCelsius.executor": "Run",
     "Application.FullName.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.IncreDrecrement.executor": "Run",
     "Application.IncrementAndDecrement.executor": "Run",
     "Application.MeetingDay.executor": "Run",
+    "Application.MultiWayIF.executor": "Run",
+    "Application.OneWaySelection.executor": "Run",
     "Application.Power.executor": "Run",
     "Application.ReadingInput.executor": "Run",
+    "Application.Selections.executor": "Run",
     "Application.Swapping.executor": "Run",
+    "Application.TwoWaySlection.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.hello.executor": "Run",
@@ -62,19 +71,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Shuur/IdeaProjects/SpringSample/SpringSample",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.40574712",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MeetingDay">
-    <configuration name="FullName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.FullName" />
+  <component name="RunManager" selected="Application.AdditionQuiz">
+    <configuration name="AdditionQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.AdditionQuiz" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.*" />
+          <option name="PATTERN" value="CA226.chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeetingDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.MeetingDay" />
+    <configuration name="MultiWayIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.MultiWayIF" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.*" />
+          <option name="PATTERN" value="CA226.chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.Swapping" />
+    <configuration name="OneWaySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.chapter3.OneWaySelection" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.*" />
+          <option name="PATTERN" value="CA2212.chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.Variables" />
+    <configuration name="Selections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.chapter3.Selections" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.*" />
+          <option name="PATTERN" value="CA2212.chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.power" />
+    <configuration name="TwoWaySlection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.chapter3.TwoWaySlection" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.*" />
+          <option name="PATTERN" value="CA2212.chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MeetingDay" />
-        <item itemvalue="Application.power" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.Swapping" />
-        <item itemvalue="Application.FullName" />
+        <item itemvalue="Application.AdditionQuiz" />
+        <item itemvalue="Application.MultiWayIF" />
+        <item itemvalue="Application.TwoWaySlection" />
+        <item itemvalue="Application.OneWaySelection" />
+        <item itemvalue="Application.Selections" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709021966358</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated">
+      <option name="closed" value="true" />
+      <created>1709199077050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709199077051</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
