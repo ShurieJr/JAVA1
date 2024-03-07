@@ -7,7 +7,13 @@ public class Main {
         int x ;
         System.out.println();
         System.out.println(sum);
+        display();
     }
+
+
+
+
+
     //
     public static void display(){
         int x = 6;

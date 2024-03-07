@@ -13,7 +13,7 @@ public class AdditionQuiz {
 
         boolean checked;  // declartion
         //display results
-        checked = number1 + number2 == answer;  // initialization
+        checked = number1 + number2 == answer; // initialization
 
 //        if(number1 + number2 == answer)
 //            checked = true;
