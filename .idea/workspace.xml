@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated" />
+    <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/LogicalOpertors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/Substraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +46,7 @@
   "keyToString": {
     "Application.AdditionQuiz.executor": "Run",
     "Application.AgeChecker.executor": "Run",
+    "Application.BMI.executor": "Run",
     "Application.CA2212.ComputeAverage.executor": "Run",
     "Application.ComputeAverage.executor": "Run",
     "Application.ComputerArea.executor": "Run",
@@ -47,13 +56,18 @@
     "Application.HelloWorld.executor": "Run",
     "Application.IncreDrecrement.executor": "Run",
     "Application.IncrementAndDecrement.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LogicalOpertors.executor": "Run",
     "Application.MeetingDay.executor": "Run",
     "Application.MultiWayIF.executor": "Run",
+    "Application.NestedIf.executor": "Run",
     "Application.OneWaySelection.executor": "Run",
     "Application.Power.executor": "Run",
     "Application.ReadingInput.executor": "Run",
     "Application.Selections.executor": "Run",
+    "Application.Substraction.executor": "Run",
     "Application.Swapping.executor": "Run",
+    "Application.Switch.executor": "Run",
     "Application.TwoWaySlection.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
@@ -70,9 +84,9 @@
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AgeChecker">
-    <configuration name="AdditionQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.AdditionQuiz" />
+  <component name="RunManager" selected="Application.Switch">
+    <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.BMI" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AgeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.AgeChecker" />
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.LeapYear" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiWayIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.MultiWayIF" />
+    <configuration name="LogicalOpertors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.LogicalOpertors" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -110,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneWaySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.chapter3.OneWaySelection" />
+    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.NestedIf" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.chapter3.*" />
+          <option name="PATTERN" value="CA226.chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoWaySlection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.chapter3.TwoWaySlection" />
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.Switch" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.chapter3.*" />
+          <option name="PATTERN" value="CA226.chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AgeChecker" />
-        <item itemvalue="Application.AdditionQuiz" />
-        <item itemvalue="Application.MultiWayIF" />
-        <item itemvalue="Application.TwoWaySlection" />
-        <item itemvalue="Application.OneWaySelection" />
+        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.LogicalOpertors" />
+        <item itemvalue="Application.NestedIf" />
+        <item itemvalue="Application.BMI" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709817783012</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated">
+      <option name="closed" value="true" />
+      <created>1709960627771</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709960627771</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
