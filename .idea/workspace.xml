@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/LogicalOpertors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/Substraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/chapter3/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc (2).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules (2).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs (2).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace (2).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter3/TernaryOp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +70,7 @@
     "Application.Substraction.executor": "Run",
     "Application.Swapping.executor": "Run",
     "Application.Switch.executor": "Run",
+    "Application.TernaryOp.executor": "Debug",
     "Application.TwoWaySlection.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
@@ -75,29 +78,22 @@
     "Application.power.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Shuur/IdeaProjects/SpringSample/SpringSample",
+    "last_opened_file_path": "C:/Users/Shuur/Desktop/HelloWorld/src/CA2212",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.40574712",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Switch">
-    <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.BMI" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CA226.chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TernaryOp">
     <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA226.chapter3.LeapYear" />
       <module name="HelloWorld" />
@@ -150,13 +146,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TernaryOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.chapter3.TernaryOp" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA2212.chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TernaryOp" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.LogicalOpertors" />
         <item itemvalue="Application.NestedIf" />
-        <item itemvalue="Application.BMI" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709960627771</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="updated">
+      <option name="closed" value="true" />
+      <created>1709966376068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709966376069</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated">
+      <option name="closed" value="true" />
+      <created>1709966490558</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709966490558</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
