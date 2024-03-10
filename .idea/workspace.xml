@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc (2).xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules (2).xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs (2).xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace (2).xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter3/TernaryOp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CA2212/chapter3/TernaryOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA2212/chapter3/TernaryOp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +63,7 @@
     "Application.Substraction.executor": "Run",
     "Application.Swapping.executor": "Run",
     "Application.Switch.executor": "Run",
-    "Application.TernaryOp.executor": "Debug",
+    "Application.TernaryOp.executor": "Run",
     "Application.TwoWaySlection.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
@@ -266,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709966490558</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updated">
+      <option name="closed" value="true" />
+      <created>1710059053867</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710059053868</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

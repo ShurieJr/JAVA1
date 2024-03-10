@@ -13,6 +13,10 @@ public class TernaryOp {
                 (age > 15) ? "Adult" : "Child"
         );
 
-        int year = 2024;
+
+        int number1 = 1, number2 = 2;
+        double average = (number1 + number2) / 2.0;
+
+        System.out.println(average);
     }
 }
