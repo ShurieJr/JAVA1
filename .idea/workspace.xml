@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/src/CA226/selections/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/selections/MultipleWayIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/selections/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/selections/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/selections/subtractionQuiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA2212/chapter3/TernaryOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA2212/chapter3/TernaryOp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,7 @@
     "Application.LogicalOpertors.executor": "Run",
     "Application.MeetingDay.executor": "Run",
     "Application.MultiWayIF.executor": "Run",
+    "Application.MultipleWayIF.executor": "Run",
     "Application.NestedIf.executor": "Run",
     "Application.OneWaySelection.executor": "Run",
     "Application.Power.executor": "Run",
@@ -63,12 +68,14 @@
     "Application.Substraction.executor": "Run",
     "Application.Swapping.executor": "Run",
     "Application.Switch.executor": "Run",
+    "Application.SwitchDemo.executor": "Debug",
     "Application.TernaryOp.executor": "Run",
     "Application.TwoWaySlection.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.hello.executor": "Run",
     "Application.power.executor": "Run",
+    "Application.subtractionQuiz.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -86,13 +93,13 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TernaryOp">
+  <component name="RunManager" selected="Application.SwitchDemo">
     <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.LeapYear" />
+      <option name="MAIN_CLASS_NAME" value="CA226.selections.LeapYear" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.chapter3.*" />
+          <option name="PATTERN" value="CA226.selections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOpertors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.LogicalOpertors" />
+    <configuration name="MultipleWayIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.selections.MultipleWayIF" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.chapter3.*" />
+          <option name="PATTERN" value="CA226.selections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.NestedIf" />
+      <option name="MAIN_CLASS_NAME" value="CA226.selections.NestedIf" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.chapter3.*" />
+          <option name="PATTERN" value="CA226.selections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter3.Switch" />
+    <configuration name="SwitchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.selections.SwitchDemo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.chapter3.*" />
+          <option name="PATTERN" value="CA226.selections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernaryOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.chapter3.TernaryOp" />
+    <configuration name="subtractionQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.selections.subtractionQuiz" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.chapter3.*" />
+          <option name="PATTERN" value="CA226.selections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TernaryOp" />
-        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.SwitchDemo" />
         <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.LogicalOpertors" />
         <item itemvalue="Application.NestedIf" />
+        <item itemvalue="Application.MultipleWayIF" />
+        <item itemvalue="Application.subtractionQuiz" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710059053868</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updated">
+      <option name="closed" value="true" />
+      <created>1710059480829</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710059480829</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
