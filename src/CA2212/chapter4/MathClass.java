@@ -6,13 +6,13 @@ public class MathClass {
     public static void main(String[] args) {
         //Math class methods
         //Constant
-        //System.out.println(Math.PI);
+        System.out.println(Math.PI);
 
-        //Trignometric
+        //Trigonometric methods
         System.out.println("Sin (0) : " + Math.sin(0));
         System.out.println("cos (0) : " + Math.cos(0));
 
-        //exponent
+        //exponent methods
         System.out.println("pow(3,2): "+ Math.pow(3 , 2));
         System.out.println("sqrt(16): "+ Math.sqrt(16));
         System.out.println("log(2): "+ Math.log10(2));
@@ -26,7 +26,7 @@ public class MathClass {
 
         System.out.println("abs(-10): " + Math.abs(-10));
 
-        //rounding
+        //rounding methods
         System.out.println("ceil(2.1): " + Math.ceil(2.1));
         System.out.println("floor(2.1): " + Math.floor(2.1));
         System.out.println("round(2.6): " + Math.round(2.6));
@@ -34,6 +34,7 @@ public class MathClass {
 
         //random number
         System.out.println("random():" + Math.random());
+        System.out.println("random():" + Math.random() * 10);
         System.out.println("random() 50:" + (int)(40 +  Math.random()*51));
 
 
