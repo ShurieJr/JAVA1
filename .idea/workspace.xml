@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA226/Chapter4/MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/Chapter4/RandomGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CA226/Chapter4/RandomGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA226/Chapter4/RandomGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,60 +37,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AdditionQuiz.executor": "Run",
-    "Application.AgeChecker.executor": "Run",
-    "Application.BMI.executor": "Run",
-    "Application.CA2212.ComputeAverage.executor": "Run",
-    "Application.CA226.Chapter4.MathClass.executor": "Run",
-    "Application.ComputeAverage.executor": "Run",
-    "Application.ComputerArea.executor": "Run",
-    "Application.DisplayAge.executor": "Run",
-    "Application.FahrenheitTOCelsius.executor": "Run",
-    "Application.FullName.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.IncreDrecrement.executor": "Run",
-    "Application.IncrementAndDecrement.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.LogicalOpertors.executor": "Run",
-    "Application.MathClass.executor": "Run",
-    "Application.MeetingDay.executor": "Run",
-    "Application.MultiWayIF.executor": "Run",
-    "Application.MultipleWayIF.executor": "Run",
-    "Application.NestedIf.executor": "Run",
-    "Application.OneWaySelection.executor": "Run",
-    "Application.ParacticeSwitch.executor": "Run",
-    "Application.PhonekeyPads.executor": "Run",
-    "Application.Power.executor": "Run",
-    "Application.RandomGenerator.executor": "Run",
-    "Application.ReadingInput.executor": "Run",
-    "Application.Selections.executor": "Run",
-    "Application.StringMethods.executor": "Run",
-    "Application.Substraction.executor": "Run",
-    "Application.Swapping.executor": "Run",
-    "Application.Switch.executor": "Run",
-    "Application.SwitchDemo.executor": "Run",
-    "Application.TernaryOp.executor": "Run",
-    "Application.TwoWaySlection.executor": "Run",
-    "Application.TypeCasting.executor": "Run",
-    "Application.Variables.executor": "Run",
-    "Application.hello.executor": "Run",
-    "Application.power.executor": "Run",
-    "Application.subtractionQuiz.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Shuur/Desktop/HelloWorld/src/CA2212",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.40574712",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdditionQuiz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AgeChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BMI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CA2212.ComputeAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CA226.Chapter4.MathClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputerArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DisplayAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FahrenheitTOCelsius.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FullName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncreDrecrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncrementAndDecrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicalOpertors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeetingDay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiWayIF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultipleWayIF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OneWaySelection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParacticeSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhonekeyPads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadingInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Selections.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Substraction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swapping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoWaySlection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.power.executor&quot;: &quot;Run&quot;,
+    &quot;Application.subtractionQuiz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shuur/Desktop/HelloWorld/src/CA2212&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40574712&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
@@ -321,12 +319,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710829873989</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="updated">
+      <option name="closed" value="true" />
+      <created>1711028197811</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711028197811</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="COMMIT" />
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CA226/Chapter4/RandomGenerator.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
