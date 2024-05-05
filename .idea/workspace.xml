@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA226/Chapter4/EscapeSequenceChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/Chapter4/FormattingString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/Chapter4/StringConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/Chapter4/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/AdditionQuizusingWHILE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/MathLearningToolSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/SubstractionQUIZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ShurieJr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ShurieJr/JAVA1.git",
+    "accountId": "47627ae7-c908-4752-a816-24a575b04aa8"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -46,6 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AdditionQuiz.executor": "Run",
+    "Application.AdditionQuizusingWHILE.executor": "Run",
     "Application.AgeChecker.executor": "Run",
     "Application.BMI.executor": "Run",
     "Application.CA2212.ComputeAverage.executor": "Run",
@@ -63,6 +77,7 @@
     "Application.LeapYear.executor": "Run",
     "Application.LogicalOpertors.executor": "Run",
     "Application.MathClass.executor": "Run",
+    "Application.MathLearningToolSub.executor": "Run",
     "Application.MeetingDay.executor": "Run",
     "Application.MultiWayIF.executor": "Run",
     "Application.MultipleWayIF.executor": "Run",
@@ -77,6 +92,7 @@
     "Application.StringConversion.executor": "Run",
     "Application.StringMethods.executor": "Run",
     "Application.Substraction.executor": "Run",
+    "Application.SubstractionQUIZ.executor": "Run",
     "Application.Swapping.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.SwitchDemo.executor": "Run",
@@ -84,6 +100,7 @@
     "Application.TwoWaySlection.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
     "Application.hello.executor": "Run",
     "Application.power.executor": "Run",
     "Application.subtractionQuiz.executor": "Run",
@@ -105,13 +122,13 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FormattingString">
-    <configuration name="EscapeSequenceChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.Chapter4.EscapeSequenceChars" />
+  <component name="RunManager" selected="Application.MathLearningToolSub">
+    <configuration name="AdditionQuizusingWHILE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.AdditionQuizusingWHILE" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.Chapter4.*" />
+          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormattingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.Chapter4.FormattingString" />
+    <configuration name="MathLearningToolSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.MathLearningToolSub" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.Chapter4.*" />
+          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.Chapter4.RandomGenerator" />
+    <configuration name="SubstractionQUIZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.SubstractionQUIZ" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.Chapter4.*" />
+          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.Chapter4.StringConversion" />
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.WhileLoop" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.Chapter4.*" />
+          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,36 +175,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.Chapter4.StringMethods" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CA226.Chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FormattingString" />
-        <item itemvalue="Application.StringConversion" />
-        <item itemvalue="Application.StringMethods" />
-        <item itemvalue="Application.EscapeSequenceChars" />
-        <item itemvalue="Application.RandomGenerator" />
+        <item itemvalue="Application.MathLearningToolSub" />
+        <item itemvalue="Application.SubstractionQUIZ" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.AdditionQuizusingWHILE" />
+        <item itemvalue="Application.WhileLoop" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-1e16d6ec" />
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -350,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711269490102</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="updated">
+      <option name="closed" value="true" />
+      <created>1711618253388</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711618253389</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
