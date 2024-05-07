@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/AdditionQuizusingWHILE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/MathLearningToolSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/SubstractionQUIZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/SentinelValueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/doWhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
@@ -27,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ShurieJr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ShurieJr&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ShurieJr/JAVA1.git",
-    "accountId": "47627ae7-c908-4752-a816-24a575b04aa8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShurieJr/JAVA1.git&quot;,
+    &quot;accountId&quot;: &quot;47627ae7-c908-4752-a816-24a575b04aa8&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -89,6 +87,7 @@
     "Application.RandomGenerator.executor": "Run",
     "Application.ReadingInput.executor": "Run",
     "Application.Selections.executor": "Run",
+    "Application.SentinelValueDemo.executor": "Run",
     "Application.StringConversion.executor": "Run",
     "Application.StringMethods.executor": "Run",
     "Application.Substraction.executor": "Run",
@@ -101,6 +100,7 @@
     "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.WhileLoop.executor": "Run",
+    "Application.doWhileLoop.executor": "Run",
     "Application.hello.executor": "Run",
     "Application.power.executor": "Run",
     "Application.subtractionQuiz.executor": "Run",
@@ -122,9 +122,9 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathLearningToolSub">
-    <configuration name="AdditionQuizusingWHILE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.AdditionQuizusingWHILE" />
+  <component name="RunManager" selected="Application.doWhileLoop">
+    <configuration name="MathLearningToolSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.MathLearningToolSub" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathLearningToolSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.MathLearningToolSub" />
+    <configuration name="SentinelValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.SentinelValueDemo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.WhileLoop" />
+    <configuration name="doWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.doWhileLoop" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -184,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.doWhileLoop" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.SentinelValueDemo" />
         <item itemvalue="Application.MathLearningToolSub" />
         <item itemvalue="Application.SubstractionQUIZ" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.AdditionQuizusingWHILE" />
-        <item itemvalue="Application.WhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711618253389</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="updated">
+      <option name="closed" value="true" />
+      <created>1714909269464</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1714909269464</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

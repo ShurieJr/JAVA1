@@ -1,9 +1,12 @@
 public class test {
     public static void main(String[] args) {
-        double number = Math.random();
-        double randomNumber = number * 100;
-        double r = randomNumber;
+        double item = 1; double sum = 0;
+        while (item != 0) { // No guarantee item will be 0
+            sum += item;
+            System.out.println("item: " + item);
+            item -= 0.1;
+        }
+        System.out.println(sum);
 
-        System.out.println(r);
-       }
+    }
 }
