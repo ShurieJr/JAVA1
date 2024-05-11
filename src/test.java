@@ -1,12 +1,16 @@
 public class test {
     public static void main(String[] args) {
-        double item = 1; double sum = 0;
-        while (item != 0) { // No guarantee item will be 0
-            sum += item;
-            System.out.println("item: " + item);
-            item -= 0.1;
-        }
-        System.out.println(sum);
+     //output : 1 2 3 4 - 9
 
+//        for(int i = 1; i < 10 ; i++){
+//            System.out.println(i);
+//        }
+//
+//        for(int i = 1; i < 10 ;  System.out.println(i++));
+        int i =0 ,j=0;
+        for(; (i+j) <= 10; i++ , j++)
+        {
+            System.out.println(i + j );
+        }
     }
 }
