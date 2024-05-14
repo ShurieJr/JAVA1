@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/powerUsingLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +106,7 @@
     "Application.doWhileLoop.executor": "Run",
     "Application.hello.executor": "Run",
     "Application.power.executor": "Run",
+    "Application.powerUsingLoop.executor": "Run",
     "Application.practice.executor": "Run",
     "Application.subtractionQuiz.executor": "Run",
     "Application.test.executor": "Run",
@@ -126,20 +127,7 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.practice">
-    <configuration name="BreakDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.BreakDemo" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.powerUsingLoop">
     <configuration name="CheckingPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.CheckingPalindrome" />
       <module name="HelloWorld" />
@@ -179,6 +167,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="powerUsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.powerUsingLoop" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.practice" />
       <module name="HelloWorld" />
@@ -194,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.powerUsingLoop" />
         <item itemvalue="Application.practice" />
         <item itemvalue="Application.CheckingPalindrome" />
         <item itemvalue="Application.SubstractionQUIZ" />
         <item itemvalue="Application.ContinueDemo" />
-        <item itemvalue="Application.BreakDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +404,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715413961448</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="updated">
+      <option name="closed" value="true" />
+      <created>1715501507875</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715501507876</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
