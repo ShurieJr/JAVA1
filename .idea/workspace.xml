@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA2212/cHPATER_5_loops/powerUsingLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter5/BreakDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter5/ContinueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter5/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter5/GuessNumberUsingBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter5/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/chapter5/isplindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +76,7 @@
     "Application.ForLoop.executor": "Run",
     "Application.FormattingString.executor": "Run",
     "Application.FullName.executor": "Run",
+    "Application.GuessNumberUsingBreak.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IncreDrecrement.executor": "Run",
     "Application.IncrementAndDecrement.executor": "Run",
@@ -83,6 +89,7 @@
     "Application.MultipleWayIF.executor": "Run",
     "Application.NestedIf.executor": "Run",
     "Application.NestedLoop.executor": "Run",
+    "Application.NestedLoops.executor": "Run",
     "Application.OneWaySelection.executor": "Run",
     "Application.ParacticeSwitch.executor": "Run",
     "Application.PhonekeyPads.executor": "Run",
@@ -105,6 +112,7 @@
     "Application.WhileLoop.executor": "Run",
     "Application.doWhileLoop.executor": "Run",
     "Application.hello.executor": "Run",
+    "Application.isplindrome.executor": "Run",
     "Application.power.executor": "Run",
     "Application.powerUsingLoop.executor": "Run",
     "Application.practice.executor": "Run",
@@ -127,13 +135,13 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.powerUsingLoop">
-    <configuration name="CheckingPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.CheckingPalindrome" />
+  <component name="RunManager" selected="Application.isplindrome">
+    <configuration name="BreakDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter5.BreakDemo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
+          <option name="PATTERN" value="CA226.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +150,11 @@
       </method>
     </configuration>
     <configuration name="ContinueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.ContinueDemo" />
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter5.ContinueDemo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
+          <option name="PATTERN" value="CA226.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstractionQUIZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.SubstractionQUIZ" />
+    <configuration name="GuessNumberUsingBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter5.GuessNumberUsingBreak" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
+          <option name="PATTERN" value="CA226.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="powerUsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.powerUsingLoop" />
+    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter5.NestedLoops" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
+          <option name="PATTERN" value="CA226.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.cHPATER_5_loops.practice" />
+    <configuration name="isplindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.chapter5.isplindrome" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.cHPATER_5_loops.*" />
+          <option name="PATTERN" value="CA226.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.powerUsingLoop" />
-        <item itemvalue="Application.practice" />
-        <item itemvalue="Application.CheckingPalindrome" />
-        <item itemvalue="Application.SubstractionQUIZ" />
+        <item itemvalue="Application.isplindrome" />
+        <item itemvalue="Application.GuessNumberUsingBreak" />
         <item itemvalue="Application.ContinueDemo" />
+        <item itemvalue="Application.BreakDemo" />
+        <item itemvalue="Application.NestedLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715501507876</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="updated">
+      <option name="closed" value="true" />
+      <created>1715668329714</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1715668329714</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
