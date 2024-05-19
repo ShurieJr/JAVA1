@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA2212/Chapter6/methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA2212/Chapter6/testMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/Chapter6/Practice/Pracrice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/Chapter6/Practice/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CA2212/Chapter6/testMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA2212/Chapter6/testMax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +92,8 @@
     "Application.ParacticeSwitch.executor": "Run",
     "Application.PhonekeyPads.executor": "Run",
     "Application.Power.executor": "Run",
+    "Application.Pracrice2.executor": "Run",
+    "Application.Practice.executor": "Run",
     "Application.RandomGenerator.executor": "Run",
     "Application.ReadingInput.executor": "Run",
     "Application.Selections.executor": "Run",
@@ -122,7 +126,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Shuur/Desktop/HelloWorld/src/CA2212",
-    "project.structure.last.edited": "Global Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.40574712",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -133,13 +137,13 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testMax">
-    <configuration name="ContinueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter5.ContinueDemo" />
+  <component name="RunManager" selected="Application.Pracrice2">
+    <configuration name="Pracrice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.Chapter6.Practice.Pracrice2" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.chapter5.*" />
+          <option name="PATTERN" value="CA2212.Chapter6.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessNumberUsingBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter5.GuessNumberUsingBreak" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.Chapter6.Practice.Practice" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.chapter5.*" />
+          <option name="PATTERN" value="CA2212.Chapter6.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pracrice2" />
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.testMax" />
         <item itemvalue="Application.methods" />
         <item itemvalue="Application.isplindrome" />
-        <item itemvalue="Application.GuessNumberUsingBreak" />
-        <item itemvalue="Application.ContinueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715843721112</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="updated">
+      <option name="closed" value="true" />
+      <created>1716014430005</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1716014430006</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

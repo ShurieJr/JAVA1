@@ -5,6 +5,10 @@ public class testMax {
         //calling
         power(2.0 , 3.0);
         System.out.println(power(2 , 3));
+
+        int age = 30;
+        String name = "Ali omar";
+        //System.out.println(STR."Name : \{name} \nAge: \{age}");
     }
 //Method overloading
     //void method
