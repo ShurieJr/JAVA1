@@ -1,16 +1,35 @@
+import java.util.Scanner;
+
 public class test {
     public static void main(String[] args) {
-     //output : 1 2 3 4 - 9
+        Scanner input = new Scanner(System.in);
+        int oddSum = 0;
+        int countOdd = 0;
+        int countEven = 0;
+        int evenSum = 0;
+        int count = 0;
+        int number;
+        System.out.println("Meeqo Number aa soo galin rabtaa:");
+        int n = input.nextInt();
+       do {
+            System.out.println("Enter number " + (count+1));
+            number = input.nextInt();
+           if(number % 2 == 0){
+               oddSum += number;
+           countOdd++;
+           }
+           else{
+               evenSum += number;
+           countEven++;
+           }
+            count++;
+        } while (count < n);
+        System.out.println("total of even numbers: " + evenSum);
+        System.out.println("Average of even numbers: " + (evenSum / countEven));
+        System.out.println("total of odd numbers: " + oddSum);
+        System.out.println("Average of odd numbers: " + (oddSum / countOdd));
 
-//        for(int i = 1; i < 10 ; i++){
-//            System.out.println(i);
-//        }
-//
-//        for(int i = 1; i < 10 ;  System.out.println(i++));
-        int i =0 ,j=0;
-        for(; (i+j) <= 10; i++ , j++)
-        {
-            System.out.println(i + j );
-        }
+
     }
-}
+    }
+
