@@ -19,6 +19,6 @@ public class FullName {
 //        System.out.println("Full name: " + fullName);
         //method call
         int a= 20, b= 30;
-        MaxImum.max2(a,b);
+
  }
 }

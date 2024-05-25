@@ -7,23 +7,27 @@ public class MaxImum {
 //      int k =   max(a, b);
         //System.out.println( max(a, b));
         //System.out.println((max(a, b) + 40));  //calculation
-      max2(a, b);
-      max2(50, 79);
-      max2(500, 600);
+        System.out.println(max(1.6 , 3));
     }
 
     //max    -- value return
-    public static int max(int num1, int num2) {
+    public static int max(int num1, double num2) {
         if (num1 > num2)
            return num1;
         else
-            return num2;
+            return (int)num2;
     }
-    //max -- void
-    public static void max2(int num1, int num2){
-        if(num1 > num2)
-            System.out.println(num1);
+    public static int max(double num1, int num2) {
+        if (num1 > num2)
+            return (int)num1;
         else
-            System.out.println(num2);
+            return (int)num2;
     }
+//    //max -- void
+//    public static void max2(int num1, int num2){
+//        if(num1 > num2)
+//            System.out.println(num1);
+//        else
+//            System.out.println(num2);
+//    }
 }

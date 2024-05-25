@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA226/Methods/MaxImum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/Methods/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/Methods/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/Methods/passByValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CA2212/FullName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA2212/FullName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CA226/Methods/MaxImum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA226/Methods/MaxImum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +91,7 @@
     "Application.NestedLoop.executor": "Run",
     "Application.NestedLoops.executor": "Run",
     "Application.OneWaySelection.executor": "Run",
+    "Application.Overloading.executor": "Run",
     "Application.ParacticeSwitch.executor": "Run",
     "Application.PhonekeyPads.executor": "Run",
     "Application.Power.executor": "Run",
@@ -96,6 +99,7 @@
     "Application.Practice.executor": "Run",
     "Application.RandomGenerator.executor": "Run",
     "Application.ReadingInput.executor": "Run",
+    "Application.Scope.executor": "Run",
     "Application.Selections.executor": "Run",
     "Application.SentinelValueDemo.executor": "Run",
     "Application.StringConversion.executor": "Run",
@@ -114,6 +118,7 @@
     "Application.hello.executor": "Run",
     "Application.isplindrome.executor": "Run",
     "Application.methods.executor": "Run",
+    "Application.passByValue.executor": "Run",
     "Application.power.executor": "Run",
     "Application.powerUsingLoop.executor": "Run",
     "Application.practice.executor": "Run",
@@ -137,20 +142,7 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="FullName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.FullName" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CA2212.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Scope">
     <configuration name="MaxImum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA226.Methods.MaxImum" />
       <module name="HelloWorld" />
@@ -164,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pracrice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.Chapter6.Practice.Pracrice2" />
+    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.Methods.Overloading" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.Chapter6.Practice.*" />
+          <option name="PATTERN" value="CA226.Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +169,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.Chapter6.Practice.Practice" />
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.Methods.Scope" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.Chapter6.Practice.*" />
+          <option name="PATTERN" value="CA226.Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.Methods.passByValue" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA226.Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scope" />
+        <item itemvalue="Application.Overloading" />
+        <item itemvalue="Application.passByValue" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.MaxImum" />
-        <item itemvalue="Application.FullName" />
-        <item itemvalue="Application.Pracrice2" />
-        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716106782068</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="updated">
+      <option name="closed" value="true" />
+      <created>1716455805803</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1716455805803</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
