@@ -1,4 +1,4 @@
-package CA226.Methods;
+package CA2212.Chapter6;
 
 public class passByValue {
     public static void main(String[] args) {
