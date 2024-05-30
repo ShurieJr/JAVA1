@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter7/ArraysDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/ArrayAsInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/arrayNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CA2212/chapter7/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA2212/chapter7/ArraysDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
     "Application.AdditionQuiz.executor": "Run",
     "Application.AdditionQuizusingWHILE.executor": "Run",
     "Application.AgeChecker.executor": "Run",
+    "Application.ArrayAsInput.executor": "Run",
     "Application.ArraysDemo.executor": "Run",
     "Application.BMI.executor": "Run",
     "Application.BreakDemo.executor": "Run",
@@ -112,7 +116,9 @@
     "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.WhileLoop.executor": "Run",
+    "Application.arrayNames.executor": "Run",
     "Application.check.executor": "Run",
+    "Application.demo1.executor": "Run",
     "Application.doWhileLoop.executor": "Run",
     "Application.hello.executor": "Run",
     "Application.isplindrome.executor": "Run",
@@ -141,7 +147,20 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraysDemo">
+  <component name="RunManager" selected="Application.ArrayAsInput">
+    <configuration name="ArrayAsInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.ArrayAsInput" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA226.ARRAYS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA2212.chapter7.ArraysDemo" />
       <module name="HelloWorld" />
@@ -155,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.Chapter6.Scope" />
+    <configuration name="arrayNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.arrayNames" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.Chapter6.*" />
+          <option name="PATTERN" value="CA226.ARRAYS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.Chapter6.passByValue" />
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.demo1" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.Chapter6.*" />
+          <option name="PATTERN" value="CA226.ARRAYS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,20 +207,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayAsInput" />
+        <item itemvalue="Application.arrayNames" />
+        <item itemvalue="Application.demo1" />
         <item itemvalue="Application.ArraysDemo" />
         <item itemvalue="Application.check" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.passByValue" />
-        <item itemvalue="Application.Scope" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716618778004</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="updated">
+      <option name="closed" value="true" />
+      <created>1716877443165</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1716877443166</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

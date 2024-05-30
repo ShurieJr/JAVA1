@@ -23,6 +23,7 @@ public class ArraysDemo {
         for(int counter=0; counter < numbers.length; counter++){
             numbers[counter] =(int) (Math.random() * 100);
         }
+
         //printing the array elements
         System.out.println("Array elements: ");
         int i = numbers.length-1;
