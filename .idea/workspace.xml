@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/ArrayAsInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/arrayNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter7/ArrayCopying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter7/SearchArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA2212/chapter7/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA2212/chapter7/ArraysDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
     "Application.AdditionQuizusingWHILE.executor": "Run",
     "Application.AgeChecker.executor": "Run",
     "Application.ArrayAsInput.executor": "Run",
+    "Application.ArrayCopying.executor": "Run",
     "Application.ArraysDemo.executor": "Run",
     "Application.BMI.executor": "Run",
     "Application.BreakDemo.executor": "Run",
@@ -102,6 +100,7 @@
     "Application.RandomGenerator.executor": "Run",
     "Application.ReadingInput.executor": "Run",
     "Application.Scope.executor": "Run",
+    "Application.SearchArray.executor": "Run",
     "Application.Selections.executor": "Run",
     "Application.SentinelValueDemo.executor": "Run",
     "Application.StringConversion.executor": "Run",
@@ -147,7 +146,7 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayAsInput">
+  <component name="RunManager" selected="Application.SearchArray">
     <configuration name="ArrayAsInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.ArrayAsInput" />
       <module name="HelloWorld" />
@@ -161,8 +160,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.chapter7.ArraysDemo" />
+    <configuration name="ArrayCopying" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.chapter7.ArrayCopying" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA2212.chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.chapter7.SearchArray" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -187,13 +199,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="check" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.demo1" />
       <module name="HelloWorld" />
@@ -209,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchArray" />
+        <item itemvalue="Application.ArrayCopying" />
         <item itemvalue="Application.ArrayAsInput" />
         <item itemvalue="Application.arrayNames" />
         <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.ArraysDemo" />
-        <item itemvalue="Application.check" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +495,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716877443166</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="updated">
+      <option name="closed" value="true" />
+      <created>1717053198843</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1717053198843</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
