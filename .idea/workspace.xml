@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter7/ArrayCopying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter7/SearchArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter7/Sortingg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +102,7 @@
     "Application.SearchArray.executor": "Run",
     "Application.Selections.executor": "Run",
     "Application.SentinelValueDemo.executor": "Run",
+    "Application.Sortingg.executor": "Run",
     "Application.StringConversion.executor": "Run",
     "Application.StringMethods.executor": "Run",
     "Application.Substraction.executor": "Run",
@@ -146,7 +146,7 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchArray">
+  <component name="RunManager" selected="Application.Sortingg">
     <configuration name="ArrayAsInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.ArrayAsInput" />
       <module name="HelloWorld" />
@@ -186,6 +186,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sortingg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.chapter7.Sortingg" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA2212.chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="arrayNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.arrayNames" />
       <module name="HelloWorld" />
@@ -199,26 +212,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.demo1" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CA226.ARRAYS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sortingg" />
         <item itemvalue="Application.SearchArray" />
         <item itemvalue="Application.ArrayCopying" />
         <item itemvalue="Application.ArrayAsInput" />
         <item itemvalue="Application.arrayNames" />
-        <item itemvalue="Application.demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717053198843</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="updated">
+      <option name="closed" value="true" />
+      <created>1717486083188</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1717486083188</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
