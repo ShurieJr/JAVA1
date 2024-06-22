@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/Copying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/Searching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/ShiftingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/ARRAYS/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/chapter8/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/chapter8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA226/chapter8/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter8/P1/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter8/P1/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter8/P2/Class3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CA2212/chapter8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA2212/chapter8/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +68,8 @@
     "Application.CA2212.ComputeAverage.executor": "Run",
     "Application.CA226.Chapter4.MathClass.executor": "Run",
     "Application.CheckingPalindrome.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.Class2.executor": "Run",
     "Application.ComputeAverage.executor": "Run",
     "Application.ComputerArea.executor": "Run",
     "Application.ContinueDemo.executor": "Run",
@@ -160,13 +158,26 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tv">
-    <configuration name="Copying" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.Copying" />
+  <component name="RunManager" selected="Application.Class2">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.chapter8.Circle" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.ARRAYS.*" />
+          <option name="PATTERN" value="CA2212.chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA2212.chapter8.P1.Class2" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA2212.chapter8.P1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,19 +191,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CA226.chapter8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Searching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.Searching" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CA226.ARRAYS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class2" />
+        <item itemvalue="Application.Circle" />
         <item itemvalue="Application.Tv" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Sorting" />
-        <item itemvalue="Application.Searching" />
-        <item itemvalue="Application.Copying" />
       </list>
     </recent_temporary>
   </component>
@@ -541,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718090639491</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="updated">
+      <option name="closed" value="true" />
+      <created>1718880820701</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1718880820701</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
