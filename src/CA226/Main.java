@@ -8,6 +8,12 @@ public class Main {
         System.out.println();
         System.out.println(sum);
         display();
+
+        int array2[] = new int[90];
+        array2[0] =23;
+        array2[1] =230;
+        array2[2] =2;
+        System.out.println(array2.length);
     }
 
 

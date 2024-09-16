@@ -1,6 +1,8 @@
+import CA226.TTTTTTTTTT;
+
 import java.util.Scanner;
 
-public class test {
+public class test extends TTTTTTTTTT {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int oddSum = 0;
@@ -30,6 +32,9 @@ public class test {
         System.out.println("Average of odd numbers: " + (oddSum / countOdd));
 
 
+    }
+    public  void display(){
+        System.out.println("test");
     }
     }
 

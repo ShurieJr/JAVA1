@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter8/P1/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter8/P1/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CA2212/chapter8/P2/Class3.java" afterDir="false" />
+    <list default="true" id="31f6640a-eebd-4a7c-b6d3-1ee1cf93e1ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CA221/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA221/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA224/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA224/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA226/TTTTTTTTTT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA2212/chapter8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA2212/chapter8/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CA226/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA226/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +68,12 @@
     "Application.ArraysDemo.executor": "Run",
     "Application.BMI.executor": "Run",
     "Application.BreakDemo.executor": "Run",
+    "Application.CA221.Circle.executor": "Run",
+    "Application.CA221.Main.executor": "Run",
     "Application.CA2212.ComputeAverage.executor": "Run",
+    "Application.CA224.Main.executor": "Run",
     "Application.CA226.Chapter4.MathClass.executor": "Run",
+    "Application.CA226.Main.executor": "Run",
     "Application.CheckingPalindrome.executor": "Run",
     "Application.Circle.executor": "Run",
     "Application.Class2.executor": "Run",
@@ -144,13 +151,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Shuur/Desktop/HelloWorld/src/CA2212",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.40574712",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "settings.sync",
+    "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -158,13 +167,13 @@
       <recent name="C:\Users\Shuur\Desktop\HelloWorld\src\CA2212" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Class2">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.chapter8.Circle" />
+  <component name="RunManager" selected="Application.CA224.Main">
+    <configuration name="CA221.Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA221.Circle" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.chapter8.*" />
+          <option name="PATTERN" value="CA221.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA2212.chapter8.P1.Class2" />
+    <configuration name="CA221.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA221.Main" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA2212.chapter8.P1.*" />
+          <option name="PATTERN" value="CA221.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,25 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.chapter8.Main" />
+    <configuration name="CA224.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA224.Main" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CA226.chapter8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CA226.ARRAYS.Sorting" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CA226.ARRAYS.*" />
+          <option name="PATTERN" value="CA224.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,13 +220,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Class2" />
-        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.CA224.Main" />
+        <item itemvalue="Application.CA221.Main" />
+        <item itemvalue="Application.CA221.Circle" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Tv" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Sorting" />
       </list>
     </recent_temporary>
   </component>
